@@ -1,4 +1,6 @@
-# Stock-Screener (work in progress)
+# Stock-Screener (work in progress) 
+
+demo video: https://youtu.be/HH-t3XpCbWs
 
 This is a web scraper that takes data from yahoo finance's top movers page and displays it in a gui.
 Data displayed includes the stock symbol, current price, change in percentage,change in price, and the number of times a stock has crossed the +10% threshold.
@@ -11,4 +13,5 @@ to be added to the table of stocks being tracked.
 
 For future iterations of this project, I will most likely just use a stock data API to get the data, rather than webscraping.
 However webscraping from yahoo's top movers page allows me to get data for all of the 25 top moving stocks in one request, which 
-for my initial intentions was very convienient. 
+for my initial intentions was very convienient. Another thing that is limiting this project is that you can only use the scroll bar and enter text
+when the program is not pulling data. I do not know very much about threading so this was an oversight when the code was written.
