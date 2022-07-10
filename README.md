@@ -1,8 +1,7 @@
 # Stock-Screener (work in progress) 
 
-demo video: https://youtu.be/HH-t3XpCbWs
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HH-t3XpCbWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Stock Screener](https://yt-embed.herokuapp.com/embed?v=HH-t3XpCbWs)](https://www.youtube.com/watch?v=HH-t3XpCbWs "Stock Screener")
 
 This is a web scraper that takes data from yahoo finance's top movers page and displays it in a gui.
 Data displayed includes the stock symbol, current price, change in percentage,change in price, and the number of times a stock has crossed the +10% threshold.
